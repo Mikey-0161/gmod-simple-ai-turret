@@ -22,7 +22,7 @@ A lightweight AI turret entity for Garry's Mod.
 
 Spawn the turret from:
 
-Weapons → AI Turret
+Entities → Weapons → AI Turret
 
 ## Customisation
 
