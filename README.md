@@ -39,4 +39,8 @@ inside the entity's Lua file.
 
 ## License
 
-MIT
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+You are free to use, modify, and share this addon, but you may NOT sell it or include it in paid content.
+
+License details: https://creativecommons.org/licenses/by-nc/4.0/
