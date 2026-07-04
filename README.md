@@ -24,6 +24,10 @@ Spawn the turret from:
 
 Entities → Weapons → AI Turret
 
+I would suggest fixing the turret in place using a precision tool or movement tool 
+
+Then BANG! BANG! all hostiles eliminated
+
 ## Customisation
 
 You can easily edit values such as:
